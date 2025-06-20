@@ -1,4 +1,4 @@
-# 🇩🇴 Dominican Emergency Message Analyzer
+# Clasificador de Urgencias
 
 **Clasificador inteligente de mensajes en jerga dominicana**, diseñado para identificar la intención (emergencia, consulta o informal), el nivel de urgencia y extraer palabras clave relevantes para su uso en sistemas automatizados de respuesta.
 
